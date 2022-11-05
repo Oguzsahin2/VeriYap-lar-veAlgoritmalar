@@ -1,4 +1,4 @@
-# Insertion Sort Projesi
+# Proje 2
 
 **Insertion Sort** 
 
